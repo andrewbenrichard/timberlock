@@ -2,27 +2,27 @@
 /* theme-color */
 
 .scroll-top{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .preloader-close{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .handle-preloader .animation-preloader .spinner{
-  border: 3px solid #F83D59; 
+  border: 3px solid #b82d22 ; 
 }
 
 .main-header .header-top .info li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .main-header .header-top .info li i{
@@ -30,427 +30,432 @@
 }
 
 .main-header .header-top .social-links li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li:hover > a{
-  color: #F83D59 !important;
+  color: #b82d22  !important;
+    border-bottom: #b82d22;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
 
 .main-menu .navigation > li > ul > li > a:hover,
 .main-menu .navigation > li > .megamenu li > a:hover{
-	color: #F83D59 !important;
+	color: #b82d22  !important;
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a:hover{
-  color: #F83D59 !important;
+  color: #b82d22  !important;
 }
 
 .theme-btn-one{
-	background: #F83D59;
+	background: #011f62;
 }
 
 .main-header .search-box-btn:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .banner-carousel h5{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 .nav-style-one .owl-nav .owl-prev:hover,
 .nav-style-one .owl-nav .owl-next:hover{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .sec-title h5{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 .counter-block-one .icon-box:before{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .counter-block-one .icon-box .dotted{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .service-block-one .inner-box .image-box{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .theme-btn-two:after{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .theme-btn-two:before{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .theme-btn-two:hover{
-	border-color: #F83D59;
+	border-color: #b82d22 ;
 }
 
 .service-block-one .inner-box .lower-content .icon-box{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 .service-block-one .inner-box .lower-content .icon-box:before{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .service-block-one .inner-box .lower-content h3 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .theme-btn-three:before{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .theme-btn-three:hover{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .accordion-box .block .acc-btn.active .icon-outer{
-	background: #F83D59;
-	border-color: #F83D59;
+	background: #b82d22 ;
+	border-color: #b82d22 ;
 }
 
 #content_block_2 .content-box .support-box .icon-box{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 #content_block_2 .content-box .support-box .icon-box:before{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 #content_block_2 .content-box .support-box h3 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 #content_block_3 .content-box .subscribe-form .form-group input:focus{
-  border-color: #F83D59 !important;
+  border-color: #b82d22  !important;
 }
 
 .team-block-one .inner-box .image-box .social-links li a:hover{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .team-block-one .inner-box .lower-content .inner h3 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .team-block-one .inner-box .lower-content .inner .designation{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 .testimonial-block-one .inner-box .quote{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 .testimonial-section .owl-theme .owl-dots .owl-dot span{
-	border: 2px solid #F83D59;
+	border: 2px solid #b82d22 ;
 }
 
 .testimonial-section .owl-theme .owl-dots .owl-dot span:before{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .video-section .inner-box a{
-	border: 5px solid #F83D59;
-	color: #F83D59;
+	border: 5px solid #b82d22 ;
+	color: #b82d22 ;
 }
 
 .cta-section .text h2 span{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .news-block-one .inner-box .lower-content h3 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .news-block-one .inner-box .lower-content .admin-box a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .default-form .form-group input:focus,
 .default-form .form-group textarea:focus{
-  border-color: #F83D59 !important;
+  border-color: #b82d22  !important;
 }
 
 .footer-top .footer-widget .social-links li a:hover{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .footer-top .links-widget .links-list li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .footer-top .contact-widget .info-list li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .footer-top .contact-widget .info-list li i{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 .footer-top .subscribe-widget .subscribe-form .form-group button{
-	background: #F83D59;
+	background: #b82d22 ;
 }
 
 .footer-top .subscribe-widget .subscribe-form .form-group input:focus{
-  border-color: #F83D59 !important;
+  border-color: #b82d22  !important;
 }
 
 .footer-bottom .bottom-inner .copyright p a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .footer-bottom .bottom-inner .footer-nav li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .feature-block-one .inner-box:hover .icon-box{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 #image_block_2 .image-box .content-inner .text h2{
-	color: #F83D59;
+	color: #b82d22 ;
 }
 
 .service-block-two .inner-box .inner h3 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .service-block-two .inner-box:hover .icon-box{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .service-block-two .inner-box:hover .inner .theme-btn-two{
-  background: #F83D59;
-  border-color: #F83D59;
+  background: #b82d22 ;
+  border-color: #b82d22 ;
 }
 
 #content_block_6 .content-box .tabs-content .inner-box .form-group input:focus{
-  border-color: #F83D59 !important;
+  border-color: #b82d22  !important;
 }
 
 .main-header.style-three .header-top .social-links li a:hover{
-  color: #F83D59;
+  color: #fff;
 }
 
 .header-upper .upper-info li p a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .main-header.style-three .lower-inner .search-box-btn:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .feature-style-two .title-inner .text{
-  border-left: 4px solid #F83D59;
+  border-left: 4px solid #b82d22 ;
 }
 
 .feature-block-two .inner-box .lower-content .inner .icon-box{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .about-style-three #content_block_5 .content-box .list-item li:before{
-  background: #F83D59;
-  border-color: #F83D59;
+  background: #b82d22 ;
+  border-color: #b82d22 ;
 }
 
 #image_block_4 .image-box .content-inner .text h3{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .service-style-three .service-block-two .inner-box:hover .inner h4,
 .service-style-three .service-block-two .inner-box:hover .inner h4 a{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .service-style-three .owl-theme .owl-dots .owl-dot.active span,
 .service-style-three .owl-theme .owl-dots .owl-dot span:hover{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .service-style-three .owl-theme .owl-dots .owl-dot span:before{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .cta-style-two .text h2 span{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .news-block-two .inner-box .lower-content h3 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .news-block-one .inner-box .lower-content .admin-box a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .news-block-two .inner-box:hover .lower-content .theme-btn-two{
-  background: #F83D59;
-  border-color: #F83D59;
+  background: #b82d22 ;
+  border-color: #b82d22 ;
 }
 
 .news-block-two .inner-box .lower-content .admin-box .admin-thumb{
-  border: 3px solid #F83D59;
+  border: 3px solid #b82d22 ;
 }
 
 .bg-color-3{
-  background: #F83D59 !important;
+  background: #b82d22 !important;
 }
 
 .page-title .content-box .bread-crumb li{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .page-title .content-box .bread-crumb li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .history-section .inner-box .text:before{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .history-section .inner-box .line-box span{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .history-section .inner-box .year-box h3:before{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .testimonial-style-three .inner-box .author-thumb i{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .testimonial-style-three .owl-theme .owl-dots .owl-dot span{
-  border: 2px solid #F83D59;
+  border: 2px solid #b82d22 ;
 }
 
 .testimonial-style-three .owl-theme .owl-dots .owl-dot span:before{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .pricing-block-one.active-block .pricing-table .table-header .price-box h2{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .about-style-four .lower-box .text .list-item li:before{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .sortable-masonry .filters .filter-tabs li.active,
 .sortable-masonry .filters .filter-tabs li:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .project-block-one .inner-box .content-box .view-btn a{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .project-block-one .inner-box .content-box .title-text h3 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .project-details-content .list-item li:before{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .project-details-content .inner-box .info-box .social-links li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .pagination li a:hover,
 .pagination li a.active{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .news-block-one .inner-box .lower-content h2 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .sidebar .search-widget .search-form .form-group button{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .sidebar .search-widget .search-form .form-group input:focus{
-  border-color: #F83D59 !important;
+  border-color: #b82d22  !important;
 }
 
 .sidebar .category-widget .category-list li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .sidebar .category-widget .category-list li a:hover span{
-  background: #F83D59;
-  border-color: #F83D59;
+  background: #b82d22 ;
+  border-color: #b82d22 ;
 }
 
 .sidebar .post-widget .post h4 a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .sidebar .archives-widget .archives-list li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .sidebar .archives-widget .archives-list li a:hover span{
-  background: #F83D59;
-  border-color: #F83D59;
+  background: #b82d22 ;
+  border-color: #b82d22 ;
 }
 
 .sidebar .tags-widget .tags-list li a:hover{
-  background: #F83D59;
-  border-color: #F83D59;
+  background: #b82d22 ;
+  border-color: #b82d22 ;
 }
 
 .blog-details-content .news-block-one .text blockquote{
-  border-left: 4px solid #F83D59;
+  border-left: 4px solid #b82d22 ;
 }
 
 .blog-details-content .news-block-one .text blockquote i{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .blog-details-content .list-item li:before{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .blog-details-content .post-share-option .social-links li a:hover{
-  background: #F83D59;
+  background: #b82d22 ;
 }
 
 .blog-details-content .comment-box .comment .comment-inner a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .blog-details-content .comments-form-area .form-group input:focus,
 .blog-details-content .comments-form-area .form-group textarea:focus{
-  border-color: #F83D59 !important;
+  border-color: #b82d22  !important;
 }
 
 .contact-style-three .info-box .info-list li i{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .contact-style-three .info-box .info-list li:hover i{
-  background: #F83D59;
-  border-color: #F83D59;
+  background: #b82d22 ;
+  border-color: #b82d22 ;
 }
 
 .contact-style-three .info-box .info-list li p a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .mobile-menu .contact-info ul li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
 
 .mobile-menu .social-links li a:hover{
-  color: #F83D59;
+  color: #b82d22 ;
 }
